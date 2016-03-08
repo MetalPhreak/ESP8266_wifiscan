@@ -9,3 +9,5 @@ Auth stat is as per AUTH_MODE enum from SDK:
 02 = WPA
 03 = WPA2
 04 = WPA/WPA2
+
+Compiled firmware is available in the firmware directory. Flash with esptool.
